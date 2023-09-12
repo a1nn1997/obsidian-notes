@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "ede43c93fa647663",
+    "type": "split",
+    "children": [
+      {
+        "id": "84cc7107f4d5ec1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285f53ccb23587fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4029cfd1ff501b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e816bdde1e5f7ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fc21ab84329c7e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a92172e4224c3266",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "obsidia",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "071c10325addc8b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c35d27a5aece4b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa410d830a6dbf4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2622e60b4fc70c65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09f7e2e7d6a64a1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77105771f9934e3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9186f4104557354e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "285f53ccb23587fc",
+  "lastOpenFiles": [
+    "interview/14+ days spreek(12-26+)/aws/Machine Learning.md",
+    "interview/14+ days spreek(12-26+)/aws/Security, Identity, & Compliance.md",
+    "interview/14+ days spreek(12-26+)/sde/truecaller.md",
+    "interview/14+ days spreek(12-26+)/sde/gmail.md",
+    "interview/14+ days spreek(12-26+)/sde/slack.md",
+    "interview/14+ days spreek(12-26+)/d1.md",
+    "interview/14+ days spreek(12-26+)/sde",
+    "interview/14+ days spreek(12-26+)/aws/storage.md",
+    "interview/14+ days spreek(12-26+)/aws/monitoring and management.md",
+    "interview/14+ days spreek(12-26+)/aws/network and content delivery.md",
+    "interview/14+ days spreek(12-26+)/aws/Data Transfer & Integration, Business Applications.md",
+    "interview/14+ days spreek(12-26+)/aws/database.md",
+    "interview/14+ days spreek(12-26+)/aws/compute.md",
+    "interview/14+ days spreek(12-26+)/aws/Application Integration Queues.md",
+    "interview/14+ days spreek(12-26+)/aws/Analytics.md",
+    "interview/14+ days spreek(12-26+)/aws",
+    "system design qn answer/system design basics.md",
+    "2023-09-12.md",
+    "Untitled 2.canvas",
+    "interview/14+ days spreek(12-26+)/aws_resources.json",
+    "interview/14+ days spreek(12-26+)/aws_resources.json.txt",
+    "interview/14+ days spreek(12-26+)/New Text Document.txt",
+    "system design qn answer/Untitled.md",
+    "interview/14+ days spreek(12-26+)",
+    "interview",
+    "system design qn answer/design chess game.md",
+    "obsidian tutorial.md",
+    "Pasted image 20230812155758.png",
+    "Pasted image 20230812155741.png",
+    "Pasted image 20230812155656.png",
+    "Pasted image 20230812155550.png",
+    "system design qn answer",
+    "anjali_wallet/anjali/Blueprint for life and emotion coach.md",
+    "anjali_wallet/anjali/prompt/11-08-2023 client abhishek repport.md",
+    "anjali_wallet/anjali/rapport",
+    "202308091528.md",
+    "anjali_wallet/difference  and alignment between life and emotion coach.md",
+    "Untitled.md",
+    "prompt/2023-08-06.md",
+    "chat gtp prompt engineering/basics.md",
+    "prompt",
+    "jrUBAF7.png",
+    "Pasted image 20230723030726.png",
+    "Pasted image 20230723025926.png",
+    "Pasted image 20230723024340.png",
+    "Pasted image 20230723023844.png",
+    "Pasted image 20230723023654.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

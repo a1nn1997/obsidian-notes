@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "legacyEditor": true
+}
