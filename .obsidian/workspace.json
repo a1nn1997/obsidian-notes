@@ -11,8 +11,12 @@
             "id": "285f53ccb23587fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md"
+              }
             }
           }
         ]
@@ -143,13 +151,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "285f53ccb23587fc",
+  "active": "0fc21ab84329c7e6",
   "lastOpenFiles": [
+    "interview/14+ days spreek(12-26+)/sde/first 10",
+    "interview/14+ days spreek(12-26+)/sde/first 10/whatsapp.md",
+    "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md",
+    "interview/14+ days spreek(12-26+)/sde/first 10/paypal.md",
+    "interview/14+ days spreek(12-26+)/sde/first 10/dropbox or google drive.md",
+    "interview/14+ days spreek(12-26+)/sde/first 10/splitwise.md",
+    "interview/14+ days spreek(12-26+)/sde/first 10/netflix.md",
+    "interview/14+ days spreek(12-26+)/sde/first 10/truecaller.md",
+    "interview/14+ days spreek(12-26+)/sde/first 10/gmail.md",
+    "interview/14+ days spreek(12-26+)/sde/first 10/jira.md",
+    "interview/14+ days spreek(12-26+)/sde/first 10/slack.md",
     "interview/14+ days spreek(12-26+)/aws/Machine Learning.md",
     "interview/14+ days spreek(12-26+)/aws/Security, Identity, & Compliance.md",
-    "interview/14+ days spreek(12-26+)/sde/truecaller.md",
-    "interview/14+ days spreek(12-26+)/sde/gmail.md",
-    "interview/14+ days spreek(12-26+)/sde/slack.md",
     "interview/14+ days spreek(12-26+)/d1.md",
     "interview/14+ days spreek(12-26+)/sde",
     "interview/14+ days spreek(12-26+)/aws/storage.md",
@@ -171,20 +187,12 @@
     "interview/14+ days spreek(12-26+)",
     "interview",
     "system design qn answer/design chess game.md",
-    "obsidian tutorial.md",
     "Pasted image 20230812155758.png",
     "Pasted image 20230812155741.png",
     "Pasted image 20230812155656.png",
     "Pasted image 20230812155550.png",
     "system design qn answer",
-    "anjali_wallet/anjali/Blueprint for life and emotion coach.md",
-    "anjali_wallet/anjali/prompt/11-08-2023 client abhishek repport.md",
     "anjali_wallet/anjali/rapport",
-    "202308091528.md",
-    "anjali_wallet/difference  and alignment between life and emotion coach.md",
-    "Untitled.md",
-    "prompt/2023-08-06.md",
-    "chat gtp prompt engineering/basics.md",
     "prompt",
     "jrUBAF7.png",
     "Pasted image 20230723030726.png",
