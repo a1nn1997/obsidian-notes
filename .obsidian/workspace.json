@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "84cc7107f4d5ec1e",
+        "id": "f66fef6eae7640f4",
         "type": "tabs",
         "children": [
           {
-            "id": "285f53ccb23587fc",
+            "id": "6da133e81948486e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,49 +143,49 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0fc21ab84329c7e6",
+  "active": "6da133e81948486e",
   "lastOpenFiles": [
-    "interview/14+ days spreek(12-26+)/sde/first 10",
+    "interview/14+ days spreek(12-26+)/sde/4th 10/snapchat.md",
+    "interview/14+ days spreek(12-26+)/sde/4th 10/instagram.md",
+    "interview/14+ days spreek(12-26+)/sde/4th 10/facebook.md",
+    "interview/14+ days spreek(12-26+)/sde/4th 10/jira.md",
+    "interview/14+ days spreek(12-26+)/sde/4th 10/App-store.md",
+    "interview/14+ days spreek(12-26+)/sde/4th 10/Design Amazon E-commerce.md",
+    "interview/14+ days spreek(12-26+)/sde/4th 10/offline caching system for Ecommerce platform.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/Amazon Locker.md",
+    "interview/14+ days spreek(12-26+)/sde/4th 10",
+    "interview/14+ days spreek(12-26+)/sde/Untitled.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/google doc.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/game platform.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/calendly.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/music player application.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/AirBNB.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/distributed LRU Cache.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/recommendation system.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/Paypal.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10/google map.md",
+    "interview/14+ days spreek(12-26+)/sde/2nd 10/zoom.md",
+    "interview/14+ days spreek(12-26+)/sde/3rd 10",
+    "interview/14+ days spreek(12-26+)/sde/2nd 10/twitter.md",
+    "interview/14+ days spreek(12-26+)/sde/2nd 10/Dropbox or Google Drive.md",
+    "interview/14+ days spreek(12-26+)/sde/2nd 10/Lookahead system.md",
+    "interview/14+ days spreek(12-26+)/sde/2nd 10/quora.md",
     "interview/14+ days spreek(12-26+)/sde/first 10/whatsapp.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/chatgpt.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/paypal.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/dropbox or google drive.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/splitwise.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/netflix.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/truecaller.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/gmail.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/jira.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/slack.md",
-    "interview/14+ days spreek(12-26+)/aws/Machine Learning.md",
-    "interview/14+ days spreek(12-26+)/aws/Security, Identity, & Compliance.md",
-    "interview/14+ days spreek(12-26+)/d1.md",
+    "interview/14+ days spreek(12-26+)/sde/2nd 10/Design Cricbuzz.md",
+    "interview/14+ days spreek(12-26+)/sde/2nd 10/Design a Notification service.md",
+    "interview/14+ days spreek(12-26+)/sde/2nd 10",
+    "interview/14+ days spreek(12-26+)/sde/first 10",
     "interview/14+ days spreek(12-26+)/sde",
-    "interview/14+ days spreek(12-26+)/aws/storage.md",
-    "interview/14+ days spreek(12-26+)/aws/monitoring and management.md",
-    "interview/14+ days spreek(12-26+)/aws/network and content delivery.md",
-    "interview/14+ days spreek(12-26+)/aws/Data Transfer & Integration, Business Applications.md",
-    "interview/14+ days spreek(12-26+)/aws/database.md",
-    "interview/14+ days spreek(12-26+)/aws/compute.md",
-    "interview/14+ days spreek(12-26+)/aws/Application Integration Queues.md",
-    "interview/14+ days spreek(12-26+)/aws/Analytics.md",
     "interview/14+ days spreek(12-26+)/aws",
-    "system design qn answer/system design basics.md",
-    "2023-09-12.md",
     "Untitled 2.canvas",
     "interview/14+ days spreek(12-26+)/aws_resources.json",
     "interview/14+ days spreek(12-26+)/aws_resources.json.txt",
     "interview/14+ days spreek(12-26+)/New Text Document.txt",
-    "system design qn answer/Untitled.md",
     "interview/14+ days spreek(12-26+)",
-    "interview",
-    "system design qn answer/design chess game.md",
     "Pasted image 20230812155758.png",
     "Pasted image 20230812155741.png",
     "Pasted image 20230812155656.png",
     "Pasted image 20230812155550.png",
-    "system design qn answer",
-    "anjali_wallet/anjali/rapport",
-    "prompt",
     "jrUBAF7.png",
     "Pasted image 20230723030726.png",
     "Pasted image 20230723025926.png",

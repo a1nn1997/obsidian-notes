@@ -44,7 +44,7 @@ Designing a system like WhatsApp involves building a highly scalable, real-time 
   
 - **Notification Service**:
   - Push notifications for new messages.
-  - Uses services like Firebase Cloud Messaging (FCM) or Apple Push Notification Service (APNS).
+  - Uses services like **Firebase Cloud Messaging (FCM)** or Apple Push Notification Service (APNS).
   
 - **End-to-End Encryption**:
   - All messages are encrypted on the sender's side and decrypted on the receiver's side.

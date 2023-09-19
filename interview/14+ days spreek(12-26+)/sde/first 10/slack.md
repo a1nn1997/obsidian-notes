@@ -68,3 +68,14 @@ Designing a system like Slack involves a myriad of components, and I'll provide 
     - **Monitoring**: Monitor system health, latency, error rates, etc.
 
 Building a system as sophisticated as Slack requires rigorous planning, architecture decisions, testing, and iterations. This overview is a starting point, and many details would need to be fleshed out based on specific requirements, budget, team expertise, expected load, and other factors.
+
+
+# websocket
+
+1. The WebSocket is a protocol to establish real-time connection
+2. no continuously polling the server.
+3. use HTTP handshake -
+4. once  connection is established, it is back and froth like duplex
+5. the WebSocket connection remains open, allowing for ongoing communication 
+6. WebSocket are transmitted using frames. Each frame can carry textual, binary, or control data.
+
