@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f66fef6eae7640f4",
+        "id": "637b1a95ff9d33bb",
         "type": "tabs",
         "children": [
           {
-            "id": "6da133e81948486e",
+            "id": "8eee4ff0d7cec75e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md",
+                "mode": "source"
+              }
             }
           }
         ]
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +123,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,8 +149,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6da133e81948486e",
+  "active": "8eee4ff0d7cec75e",
   "lastOpenFiles": [
+    "dsa/python/utility methods/itertools/permutation.md",
+    "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md",
+    "dsa/python/utility methods/itertools/product.md",
+    "interview/14+ days spreek(12-26+)/notes.md",
+    "excel formula.md",
     "interview/14+ days spreek(12-26+)/sde/4th 10/snapchat.md",
     "interview/14+ days spreek(12-26+)/sde/4th 10/instagram.md",
     "interview/14+ days spreek(12-26+)/sde/4th 10/facebook.md",
@@ -168,11 +179,6 @@
     "interview/14+ days spreek(12-26+)/sde/3rd 10",
     "interview/14+ days spreek(12-26+)/sde/2nd 10/twitter.md",
     "interview/14+ days spreek(12-26+)/sde/2nd 10/Dropbox or Google Drive.md",
-    "interview/14+ days spreek(12-26+)/sde/2nd 10/Lookahead system.md",
-    "interview/14+ days spreek(12-26+)/sde/2nd 10/quora.md",
-    "interview/14+ days spreek(12-26+)/sde/first 10/whatsapp.md",
-    "interview/14+ days spreek(12-26+)/sde/2nd 10/Design Cricbuzz.md",
-    "interview/14+ days spreek(12-26+)/sde/2nd 10/Design a Notification service.md",
     "interview/14+ days spreek(12-26+)/sde/2nd 10",
     "interview/14+ days spreek(12-26+)/sde/first 10",
     "interview/14+ days spreek(12-26+)/sde",
