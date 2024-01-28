@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "637b1a95ff9d33bb",
+        "id": "22df9f476bb181b8",
         "type": "tabs",
         "children": [
           {
-            "id": "8eee4ff0d7cec75e",
+            "id": "b274f5197d3d2317",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md",
-                "mode": "source"
+                "file": "anjali_wallet/anjali/prompt/daily self care quote prompt.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 499.5
   },
   "right": {
     "id": "9c35d27a5aece4b5",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md",
+                "file": "anjali_wallet/anjali/prompt/daily self care quote prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md",
+                "file": "anjali_wallet/anjali/prompt/daily self care quote prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md"
+                "file": "anjali_wallet/anjali/prompt/daily self care quote prompt.md"
               }
             }
           }
@@ -149,45 +150,45 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8eee4ff0d7cec75e",
+  "active": "b274f5197d3d2317",
   "lastOpenFiles": [
-    "dsa/python/utility methods/itertools/permutation.md",
-    "interview/14+ days spreek(12-26+)/sde/4th 10/avoma integration.md",
-    "dsa/python/utility methods/itertools/product.md",
+    "prompt/2023-08-06.md",
+    "anjali_wallet/anjali/prompt/daily self care quote prompt.md",
+    "dsa/python/graph/DFS.md",
+    "dsa/python/graph/qns/Find All Leaves of a Binary Tree.md",
+    "dsa/python/graph/qns",
+    "dsa/python/graph/BFS.md",
+    "obsidian tutorial.md",
+    "composition.md",
+    "lld/day wise notes/28th may 2023.md",
+    "lld/book1 - object oriented thought process.md",
+    "dsa/python/graph/intro.md",
+    "lld/Book summary.md",
+    "dsa/python/graph/graph_base_algo",
+    "dsa/python/graph",
+    "interview/14+ days spreek(12-26+)/sde/first 10/jira.md",
+    "anjali_wallet/anjali/Blueprint for life and emotion coach.md",
+    "anjali_wallet/anjali/prompt/2023-07-23 prompt.md",
+    "anjali_wallet/anjali/prompt/11-08-2023 client abhishek repport.md",
+    "anjali_wallet/anjali/datewise_notes/datewise_index.md",
+    "prompt/codility prompt.md",
     "interview/14+ days spreek(12-26+)/notes.md",
-    "excel formula.md",
-    "interview/14+ days spreek(12-26+)/sde/4th 10/snapchat.md",
-    "interview/14+ days spreek(12-26+)/sde/4th 10/instagram.md",
-    "interview/14+ days spreek(12-26+)/sde/4th 10/facebook.md",
-    "interview/14+ days spreek(12-26+)/sde/4th 10/jira.md",
-    "interview/14+ days spreek(12-26+)/sde/4th 10/App-store.md",
-    "interview/14+ days spreek(12-26+)/sde/4th 10/Design Amazon E-commerce.md",
-    "interview/14+ days spreek(12-26+)/sde/4th 10/offline caching system for Ecommerce platform.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/Amazon Locker.md",
+    "interview/14+ days spreek(12-26+)/aws/compute.md",
+    "interview/14+ days spreek(12-26+)/aws/Application Integration Queues.md",
+    "interview/14+ days spreek(12-26+)/aws/database.md",
+    "interview/14+ days spreek(12-26+)/aws/storage.md",
+    "interview/14+ days spreek(12-26+)/aws/monitoring and management.md",
+    "k8/test cube .yml.md",
+    "k8",
+    "interview/14+ days spreek(12-26+)/aws/network and content delivery.md",
+    "interview/14+ days spreek(12-26+)/aws/Data Transfer & Integration, Business Applications.md",
     "interview/14+ days spreek(12-26+)/sde/4th 10",
-    "interview/14+ days spreek(12-26+)/sde/Untitled.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/google doc.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/game platform.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/calendly.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/music player application.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/AirBNB.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/distributed LRU Cache.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/recommendation system.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/Paypal.md",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10/google map.md",
-    "interview/14+ days spreek(12-26+)/sde/2nd 10/zoom.md",
     "interview/14+ days spreek(12-26+)/sde/3rd 10",
-    "interview/14+ days spreek(12-26+)/sde/2nd 10/twitter.md",
-    "interview/14+ days spreek(12-26+)/sde/2nd 10/Dropbox or Google Drive.md",
     "interview/14+ days spreek(12-26+)/sde/2nd 10",
     "interview/14+ days spreek(12-26+)/sde/first 10",
     "interview/14+ days spreek(12-26+)/sde",
     "interview/14+ days spreek(12-26+)/aws",
     "Untitled 2.canvas",
-    "interview/14+ days spreek(12-26+)/aws_resources.json",
-    "interview/14+ days spreek(12-26+)/aws_resources.json.txt",
-    "interview/14+ days spreek(12-26+)/New Text Document.txt",
-    "interview/14+ days spreek(12-26+)",
     "Pasted image 20230812155758.png",
     "Pasted image 20230812155741.png",
     "Pasted image 20230812155656.png",

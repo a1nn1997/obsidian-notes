@@ -28,3 +28,7 @@ Certainly! Here are some popular methods from the `itertools` module in Python:
 13. `combinations_with_replacement(iterable, r)`: Generates all possible combinations of `r` length from the elements of `iterable`, allowing repeated elements. [[permutation#^a4092f]]
     
 14. `product(*iterables, repeat=1)`: Generates the Cartesian product of the provided iterables.  [[product#^b5f504]]
+
+
+
+S

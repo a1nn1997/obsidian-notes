@@ -1,0 +1,2 @@
+
+```analyzed first 3 pictures which are clarifying the task requirements to fulfil requirements of first 3 picture an incomplete code was given in 4th picture ``` ```your task is to complete python code present in 4rd picture to fulfil all task requirements present in 1st 3 pictures```

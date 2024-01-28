@@ -171,7 +171,7 @@
 
         "service_type": "Compute",
 
-        "description": "AWS Elastic Beanstalk is a fully managed service for deploying, managing, and scaling web applications and services.",
+        "description": "AWS Elastic Beanstalk is a fully managed service for deploying, managing, and scaling web applicationcs and services.",
 
         "usage": "App deployment, management, and scaling without infrastructure management.",
 

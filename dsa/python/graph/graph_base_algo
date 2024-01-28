@@ -1,0 +1,161 @@
+DFS
+"""
+###dfs
+
+class DFS(Graph):
+    def __init__(self):
+        super().__init__()
+
+    def dfs(self, visited: set(), graph:list(list()), node:str):  # function for dfs
+        if node not in visited:
+            visited.add(node)
+            for neighbour in graph[node]:
+                self.dfs(visited, graph, neighbour)
+
+    def main(self):
+        # Perform DFS starting from the first node (which is 'A')
+        visited = set()  # Set to keep track of visited nodes.
+
+        # Driver Code
+        self.dfs(visited, self.graph, 'A')
+
+
+# visited = set() 
+# graph matrix
+
+# start point node
+
+if node not in visited: 
+1. add node in visited
+2. iterate value of graph[node] as neighbour
+   1. dfs recursion on neighbour (visited graph neighbour)
+
+# idea is simple if node is not visited add node in visited than recurively iterate its neighbours
+
+"""
+
+
+"""
+
+###BFS
+class BFS():
+    def bfs(self,graph:list(list()), start: str):
+        visited = set()
+        q = deque([start])
+        while q:
+            node = q.popleft()
+            if node not in visited:
+                print(node)
+                visited.add(node)
+                for neighbor in graph[node]:
+                    q.append(neighbor)
+
+    def main(self):
+        self.bfs(self.graph,'A')
+
+ # IN BFS 
+ visited = set()
+ initialize 
+ q = deque([start])
+ while q:
+    node me q pop kro
+    if node not in visited
+    	print node
+    	1.visited.add node
+    	2. iterate neighbour of node (BFS) if node not in visited add the node in q
+
+ """
+
+ dfs perform recursion based on not visited nodes
+ bfs use q to perform push pop operation on non visited nodes
+
+ """
+
+"""
+1. Depth-First Search (DFS):
+
+	Use Cases:
+		Finding connected components.
+		Topological sorting in a directed graph.
+		Solving puzzles with only one solution (e.g., mazes).
+		Pathfinding where you want to explore all possible paths or find the longest path.
+		In tree traversals, where you might want to visit deeper nodes before visiting siblings.
+	Properties:
+		Goes deep into the graph as far as possible before backtracking.
+		Uses less memory compared to BFS (especially in sparse graphs).
+		Not guaranteed to find the shortest path.
+
+
+2. Breadth-First Search (BFS):
+
+	Use Cases:
+		Finding the shortest path on unweighted graphs.
+		Level order traversal of trees.
+		Finding all nodes within one connected component.
+		In scenarios where the target node is likely to be closer to the start.
+	Properties:
+		Explores neighbors of all nodes at the present depth before going deeper.
+		More memory-intensive, especially in dense graphs.
+		Always finds the shortest path first.
+
+
+
+DFS Questions Sorted from Easy to Hard:
+
+	Path Sum in Binary Tree
+	Symmetric Tree
+	Balanced Binary Tree
+	Subtree of Another Tree
+	Sum of Left Leaves
+	Word Search in a Grid
+	Flood Fill Algorithm
+	Find Leaves of Binary Tree
+	Binary Tree Maximum Path Sum
+	Diameter of Binary Tree
+	Graph Bipartiteness Check
+	Clone a Complex List with Random Pointer
+	All Paths from Source to Target in a Directed Graph
+	Detect Cycle in a Directed Graph
+	Construct Binary Tree from Preorder and Inorder Traversal
+	Longest Consecutive Sequence in Binary Tree
+	Serialize and Deserialize Binary Tree
+	Largest Component Size by Common Factor
+	Most Stones Removed with Same Row or Column
+	Maze Solving Algorithms
+	Binary Tree Cameras
+	Accounts Merge
+	Critical Connections in a Network
+	Knight's Tour on a Chess Board
+	Friend Circles (Find Connected Components in a Graph)
+
+
+BFS Questions Sorted from Easy to Hard:
+
+	Minimum Depth of Binary Tree
+	Employee Importance
+	Rotten Oranges
+	Open the Lock (Minimum Moves to Open a Combination Lock)
+	Jump Game III
+	Kill Process
+	Find Nearest Right Node in Binary Tree
+	Zombie in Matrix
+	Web Crawler
+	Shortest Path in Binary Matrix
+	01 Matrix (Nearest 0 for Each Cell)
+	Minimum Knight Moves
+	Perfect Squares (Least Number of Perfect Square Numbers that Sum to n)
+	Shortest Distance from All Buildings
+	Minimum Genetic Mutation
+	Shortest Bridge between Two Islands
+	Minimum Jumps to Reach Home
+	Bus Routes
+	Snakes and Ladders
+	Time Needed to Inform All Employees
+	Shortest Path to Get All Keys
+	Escape a Large Maze
+	Minimum Height Trees
+	Cut Off Trees for Golf Event
+	Minimum Moves to Reach Target with Rotations 
+
+
+"""
