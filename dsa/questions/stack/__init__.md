@@ -19,7 +19,7 @@
 	sol - [[remove all adjecent duplicate]] 
 	status [[todo]]
 
-- [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`    [[dfs]]
+- [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`    [[dsa/python/graph/DFS/DFS]]
 
 ## Medium
 

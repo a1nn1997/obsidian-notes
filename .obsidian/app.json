@@ -4,5 +4,6 @@
   "showLineNumber": true,
   "strictLineBreaks": true,
   "showFrontmatter": true,
-  "legacyEditor": true
+  "legacyEditor": true,
+  "promptDelete": false
 }

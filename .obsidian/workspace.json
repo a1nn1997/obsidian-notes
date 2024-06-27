@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "22df9f476bb181b8",
+        "id": "78730f8f8123ae21",
         "type": "tabs",
         "children": [
           {
-            "id": "b274f5197d3d2317",
+            "id": "2287b37805ca0f15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anjali_wallet/anjali/prompt/daily self care quote prompt.md",
+                "file": "dsa/python/graph/DFS/soln/tree/dfs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e5b21f38ddf903d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dsa/python/graph/DFS/soln/graph/2d.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e2c97aaf79a393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dsa/python/graph/DFS/soln/notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5
+    "width": 357.5
   },
   "right": {
     "id": "9c35d27a5aece4b5",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anjali_wallet/anjali/prompt/daily self care quote prompt.md",
+                "file": "dsa/python/graph/DFS/soln/graph/2d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anjali_wallet/anjali/prompt/daily self care quote prompt.md",
+                "file": "dsa/python/graph/DFS/soln/graph/2d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anjali_wallet/anjali/prompt/daily self care quote prompt.md"
+                "file": "dsa/python/graph/DFS/soln/graph/2d.md"
               }
             }
           }
@@ -150,55 +175,55 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b274f5197d3d2317",
+  "active": "0e5b21f38ddf903d",
   "lastOpenFiles": [
-    "prompt/2023-08-06.md",
-    "anjali_wallet/anjali/prompt/daily self care quote prompt.md",
-    "dsa/python/graph/DFS.md",
-    "dsa/python/graph/qns/Find All Leaves of a Binary Tree.md",
-    "dsa/python/graph/qns",
+    "dsa/python/graph/DFS/DFS.md",
+    "dsa/python/graph/DFS/soln/tree/dfs.md",
+    "dsa/python/graph/DFS/soln/notes.md",
+    "dsa/python/graph/DFS/soln/graph/2d.md",
+    "dsa/python/slack/__init__.md",
+    "dsa/python/slack/soln/basic stack.md",
+    "dsa/python/slack/soln",
+    "dsa/python/slack",
+    "dsa/python/graph/DFS/soln/graph/basic.md",
     "dsa/python/graph/BFS.md",
-    "obsidian tutorial.md",
-    "composition.md",
-    "lld/day wise notes/28th may 2023.md",
-    "lld/book1 - object oriented thought process.md",
+    "dsa/python/graph/DFS/soln/tree/basic.md",
+    "dsa/python/graph/DFS/soln/graph",
+    "dsa/python/graph/DFS/soln/tre. /basic.md",
+    "dsa/python/graph/DFS/soln/basic.md",
+    "dsa/python/graph/DFS/soln/tre. ",
+    "dsa/python/graph/DFS/soln/tree",
+    "dsa/python/graph/DFS/soln/t.md",
+    "dsa/python/graph/qns/Find All Leaves of a Binary Tree.md",
+    "dsa/python/graph/DFS/soln",
+    "dsa/python/graph/DFS",
+    "dsa/python/appln.md",
+    "dsa/python/sliding windows/type1/counter.md",
+    "dsa/python/sliding windows/type1/basics.md",
+    "Pasted image 20240620090926.png",
+    "Pasted image 20240620090812.png",
+    "Pasted image 20240620090733.png",
+    "Pasted image 20240620090635.png",
+    "Pasted image 20240620090555.png",
+    "Pasted image 20240620090501.png",
+    "Pasted image 20240620090401.png",
+    "Pasted image 20240620090339.png",
+    "Pasted image 20240620090300.png",
+    "Pasted image 20240620090200.png",
+    "dsa/python/sliding windows/__init__.md",
+    "dsa/python/sliding windows/type1/ba.md",
+    "dsa/python/sliding windows/type1",
+    "dsa/python/greedy/__init__.md",
+    "dsa/python/dp/__init__.md",
+    "dsa/python/dp/questions/memorization (top down approach)/part 1 (1d dp).md",
+    "dsa/python/dp/dp algorithym.md",
     "dsa/python/graph/intro.md",
-    "lld/Book summary.md",
-    "dsa/python/graph/graph_base_algo",
-    "dsa/python/graph",
-    "interview/14+ days spreek(12-26+)/sde/first 10/jira.md",
-    "anjali_wallet/anjali/Blueprint for life and emotion coach.md",
-    "anjali_wallet/anjali/prompt/2023-07-23 prompt.md",
-    "anjali_wallet/anjali/prompt/11-08-2023 client abhishek repport.md",
-    "anjali_wallet/anjali/datewise_notes/datewise_index.md",
-    "prompt/codility prompt.md",
-    "interview/14+ days spreek(12-26+)/notes.md",
-    "interview/14+ days spreek(12-26+)/aws/compute.md",
-    "interview/14+ days spreek(12-26+)/aws/Application Integration Queues.md",
-    "interview/14+ days spreek(12-26+)/aws/database.md",
-    "interview/14+ days spreek(12-26+)/aws/storage.md",
-    "interview/14+ days spreek(12-26+)/aws/monitoring and management.md",
-    "k8/test cube .yml.md",
-    "k8",
-    "interview/14+ days spreek(12-26+)/aws/network and content delivery.md",
-    "interview/14+ days spreek(12-26+)/aws/Data Transfer & Integration, Business Applications.md",
-    "interview/14+ days spreek(12-26+)/sde/4th 10",
-    "interview/14+ days spreek(12-26+)/sde/3rd 10",
-    "interview/14+ days spreek(12-26+)/sde/2nd 10",
-    "interview/14+ days spreek(12-26+)/sde/first 10",
-    "interview/14+ days spreek(12-26+)/sde",
-    "interview/14+ days spreek(12-26+)/aws",
+    "dsa/python/dp/questions/memorization (top down approach)/part 2 (2d  dp).md",
+    "dsa/python/dp/questions/tabulation/part 2 min max.md",
+    "dsa/python/dp/questions/memorization (top down approach)/part 3 complex dp.md",
+    "dsa/python/two pointers",
+    "dsa/python/sliding windows",
     "Untitled 2.canvas",
-    "Pasted image 20230812155758.png",
-    "Pasted image 20230812155741.png",
-    "Pasted image 20230812155656.png",
-    "Pasted image 20230812155550.png",
-    "jrUBAF7.png",
-    "Pasted image 20230723030726.png",
-    "Pasted image 20230723025926.png",
-    "Pasted image 20230723024340.png",
-    "Pasted image 20230723023844.png",
-    "Pasted image 20230723023654.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

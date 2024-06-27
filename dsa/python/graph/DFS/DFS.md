@@ -1,25 +1,27 @@
+[algo]
+
 DFS Questions Sorted from Easy to Hard:
-1. [Path Sum in Binary Tree](https://leetcode.com/problems/path-sum)
-2. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
-3. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree
-4. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)
-5. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)
+1. [Path Sum in Binary Tree](https://leetcode.com/problems/path-sum) [[dsa/python/graph/DFS/soln/tree/basic#1. pathsum|soln]]
+2. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) [[dsa/python/graph/DFS/soln/tree/basic#2. Symmetric Tree|soln]]
+3. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) [[dsa/python/graph/DFS/soln/tree/basic#3. Balanced Tree|soln]]
+4. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) [[dsa/python/graph/DFS/soln/tree/basic#4. Subtree of Another Tree|soln]]
+5. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) [[dsa/python/graph/DFS/soln/tree/basic#5. sum of left leaves|soln]]
 6. [[Find All Leaves of a Binary Tree]]
-7. . [**Check if a Path Exists in a Graph**](https://leetcode.com/problems/find-if-path-exists-in-graph)
-8. [**Validate Binary Search Tree**](https://leetcode.com/problems/validate-binary-search-tree)
+
+8. . [**Check if a Path Exists in a Graph**](https://leetcode.com/problems/find-if-path-exists-in-graph) basic
+9. [**Validate Binary Search Tree**](https://leetcode.com/problems/validate-binary-search-tree) [[dsa/python/graph/DFS/soln/tree/basic#6. BST is valid|soln]]
+10. [**Clone Graph**](https://leetcode.com/problems/clone-graph/description/) basic
+8. [**Binary Tree Right Side View**](https://leetcode.com/problems/binary-tree-right-side-view/description/) [[dsa/python/graph/DFS/soln/tree/dfs#1. right side view|soln]]
+9. **Flood Fill Algorithm**
+10. **Max Area of Island**
+11. **Diameter of Binary Tree**
+	12. **Number of Provinces (Similar to Friend Circles)**
+	13. **Word Search in a Grid**
+	14.  **Time Needed to Inform All Employees**
 	DFS Questions Sorted from Easy to Hard:
-		7. **Clone Graph**
-		8. **Binary Tree Right Side View**
-		9. **Flood Fill Algorithm**
-		10. **Max Area of Island**
-		11. **Diameter of Binary Tree**
-		12. **Number of Provinces (Similar to Friend Circles)**
-		13. **Longest Increasing Path in a Matrix**
-		14. **Binary Tree Maximum Path Sum**
-		15. **Decode String (with Nested Patterns)**
-		16. **Word Search in a Grid**
-		17. **Reconstruct Itinerary from Flight Tickets**
-		18. **Time Needed to Inform All Employees**
+		
+		
+
 		19. **Number of Islands**
 		20. **Accounts Merge**
 		21. **Surrounded Regions**
@@ -70,3 +72,11 @@ DFS Questions Sorted from Easy to Hard:
 	13. **Backtracking (N-Queens Problem, Sudoku Solver, etc.)**: Solving combinatorial problems with DFS.
 	14. **Biconnectivity in Graphs**: Check if removing any vertex will not disconnect the graph.
 	15. **Knight’s Tour Problem**: Chess knight's tour using DFS.
+
+hard
+```
+13. **Longest Increasing Path in a Matrix**
+14. **Binary Tree Maximum Path Sum**
+17. **Reconstruct Itinerary from Flight Tickets**
+	
+```
